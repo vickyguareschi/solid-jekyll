@@ -1,0 +1,21 @@
+---
+layout: project
+title:  "CUTE ICONS!"
+date:   2017-02-10 16:04:46
+author: Vicky Guareschi
+categories:
+- project
+img: portfolio_10.jpg
+thumb: thumb02.jpg
+carousel:
+- single01.jpg
+- single02.jpg
+- single03.jpg
+tagged: SVG, icons, tnp, illustrator
+client: 
+website: 
+---
+#### ICONS!
+I recently started using The Noun project, and I loved lots of the icons I found there, but some of them were not quite what I was looking for, so I decided to make my own even though I had never drawn any! I plan to expand my icon collection on The Noun Project so other designers can use my own designs. 
+
+
