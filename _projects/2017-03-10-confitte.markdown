@@ -7,7 +7,7 @@ author: Vicky Guareschi
 categories:Photography, product 
 - project
 img: portfolio_07.jpg
-thumb: thumb02.jpg
+thumb: 2.jpg
 carousel:
 - Confitte1.jpg
 - Confitte2.jpg
