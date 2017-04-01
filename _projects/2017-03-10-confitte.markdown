@@ -20,7 +20,7 @@ tagged: instagram, photography, product
 client: Confitte
 website: http:/www.confitte.com.ar
 ---
-####CONFITTE
+#### CONFITTE
 The client asked for pictures to be published throughout the year on their Instagram account. A set of guidelines were provided and the photographs were takes according to them. Once done, they were reviewed and approved by the client. 
 
 
