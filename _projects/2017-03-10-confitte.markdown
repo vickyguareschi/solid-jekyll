@@ -1,12 +1,12 @@
-
 ---
 layout: project
 title:  "CONFITTE"
 date:   2017-03-10 16:54:46
 author: Vicky Guareschi
-categories:Photography, product 
-- project
-img: portfolio_07.jpg
+categories: 
+- Photography
+- Product
+img: 2.jpg
 thumb: 2.jpg
 carousel:
 - Confitte1.jpg
