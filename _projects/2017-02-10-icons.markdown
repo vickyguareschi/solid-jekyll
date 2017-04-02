@@ -5,15 +5,26 @@ date:   2017-02-10 16:04:46
 author: Vicky Guareschi
 categories:
 - project
-img: portfolio_10.jpg
-thumb: thumb02.jpg
+img: Burgerthumb.jpg
+thumb: Burgerthumg.jpg
 carousel:
-- single01.jpg
-- single02.jpg
-- single03.jpg
+- b1.jpg
+- b2.jpg
+- b3.jpg
+- b4.jpg
+- b5.jpg
+- b6.jpg
+- b7.jpg
+- b8.jpg
+- b9.jpg
+- b10.jpg
+- b11.jpg
+- b2.jpg
+- Bridge.jpg
+- kite.jpg
 tagged: SVG, icons, tnp, illustrator
 client: 
-website: 
+website: http://thenounproject.com/vickyguareschi
 ---
 #### ICONS!
 I recently started using The Noun project, and I loved lots of the icons I found there, but some of them were not quite what I was looking for, so I decided to make my own even though I had never drawn any! I plan to expand my icon collection on The Noun Project so other designers can use my own designs. 
