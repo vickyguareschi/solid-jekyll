@@ -8,6 +8,7 @@ categories:
 img: Burgerthumb.jpg
 thumb: Burgerthumg.jpg
 carousel:
+- Burgerpink.jpg
 - b1.jpg
 - b2.jpg
 - b3.jpg
