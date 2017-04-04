@@ -1,0 +1,20 @@
+---
+layout: project
+title:  "Flyers"
+date:   2017-03-11 16:54:46
+author: Marcel Newman
+categories:
+- project
+img: DrunkenGoatHor2.jpg
+thumb: DrunkenGoatHor2.jpg
+carousel:
+- DrunkenGoatHor.jpg
+- DrunkenGoatVer.jpg
+- InviteFiesta.jpg
+- FlyerChiringo2.jpg
+tagged: Flyers, Graphic Design
+client: 
+website: 
+---
+####FLYERS
+These are a few flyers I've done for a few events at Volcom, Lab Tostadores and El Chiringo Surf bar. 

@@ -10,6 +10,8 @@ thumb: Burgerthumg.jpg
 carousel:
 - Burgerpink.jpg
 - b1.jpg
+- Bridge.jpg
+- kite.jpg
 - b2.jpg
 - b3.jpg
 - b4.jpg
@@ -21,8 +23,6 @@ carousel:
 - b10.jpg
 - b11.jpg
 - b2.jpg
-- Bridge.jpg
-- kite.jpg
 tagged: SVG, icons, tnp, illustrator
 client: 
 website: http://thenounproject.com/vickyguareschi
