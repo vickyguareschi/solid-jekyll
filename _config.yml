@@ -34,16 +34,12 @@ collections:
 
 # Social networks usernames. Many more available: google-plus, flickr, linkedin, etc). Shown in footer.
 social:
-  - title: dribbble
-    url:
-  - title: facebook
-    url: http://facebook.com/vickyguareschi
-  - title: twitter
-    url: http://twitter.com/vickyguareschi
   - title: instagram
     url: http://instagram.com/vickyguareschi
-  - title: tumblr
-    url:
+  - title: github
+    url: http://github.com/vickyguareschi
+  - title: linkedin
+    url: https://ar.linkedin.com/in/vickyguareschi
 
 # Postal address (add as many lines as necessary). Shown in footer and on Contact page.
 address:

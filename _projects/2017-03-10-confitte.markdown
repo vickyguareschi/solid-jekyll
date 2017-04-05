@@ -1,0 +1,26 @@
+---
+layout: project
+title:  "CONFITTE"
+date:   2017-03-10 16:54:46
+author: Vicky Guareschi
+categories: 
+- Photography
+- Product
+img: 2.jpg
+thumb: 2.jpg
+carousel:
+- Confitte1.jpg
+- Confitte2.jpg
+- Confitte3.jpg
+- Confitte4.jpg
+- Confitte5.jpg
+- Confitte6.jpg
+- Confitte7.jpg
+tagged: instagram, photography, product
+client: Confitte
+website: http:/www.confitte.com.ar
+---
+#### CONFITTE
+The client asked for pictures to be published throughout the year on their Instagram account. A set of guidelines were provided and the photographs were takes according to them. Once done, they were reviewed and approved by the client. 
+
+
