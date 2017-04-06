@@ -1,8 +1,8 @@
 ### GENERAL SETTINGS ###
 
 # Site settings
-title: Vicky Guareschi .
-description: "Awesome portfolio of a 26 year old design and photopgraphy lover."
+title: VICKY GUARESCHI
+description: "Portfolio of a 26 year old design, illustration and photopgraphy lover."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
 baseurl: "" #important: start with /
 url: "http://yourdomain.com"
@@ -13,13 +13,13 @@ permalink: /:categories/:title
 excerpt_separator: <!--more--> #use this in posts to define how long the excerpt of the post (that is shown on the Blog page) is
 
 colors:  #in hex code if not noted else
-  primary: "#00b3fe" #"#F70031"
-  primary_rgb: "0,179,254" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
-  secondary: "#384452" #"#33004D"
-  link: "#428bca"
-  link_hover: "#01b2fe"
+  primary: "#606060" #"#F70031"
+  primary_rgb: "96,96,96" #"247,0,49" #rgb of the primary. Needed in some places for the transparency effect.
+  secondary: "#fa789c" #"#6f6f6f"
+  link: "#f5b7d4"
+  link_hover: "#b64780"
   footer_heading: "#ffffff"
-  footer_content: "#bfc9d3"
+  footer_content: "#f5b7d4"
 
 # Making projects separate from posts
 collections:
@@ -104,10 +104,10 @@ clients:
     img: client04.png
 
 # Short text about your company. Shown in footer on every page and also separately on Home and Contact page.
-about: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s."
+about: "I'm a 26 year old who loves design, photography and illustration. Just a geeky girl who wants to create pretty designs for the world, learning as much as I can in the process."
 
 # Testimonial content. Shown on Home and About page.
 testimonial:
     message: "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
-    author: Marcel Newman
-    position: WEB DESIGNER - BLACKTIE.CO
+    author: 
+    position: DESIGNER
