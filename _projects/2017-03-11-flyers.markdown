@@ -11,10 +11,10 @@ carousel:
 - DrunkenGoatHor.jpg
 - DrunkenGoatVer.jpg
 - InviteFiesta.jpg
-- FlyerChiringo2.jpg
+- Flyerchiringo2.jpg
 tagged: Flyers, Graphic Design
 client: 
 website: 
 ---
-####FLYERS
+#### FLYERS
 These are a few flyers I've done for a few events at Volcom, Lab Tostadores and El Chiringo Surf bar. 

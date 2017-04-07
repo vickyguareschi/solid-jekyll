@@ -5,8 +5,8 @@ date:   2017-02-10 16:04:46
 author: Vicky Guareschi
 categories:
 - project
-img: Burgerthumb.jpg
-thumb: Burgerthumg.jpg
+img: Burgerpink.jpg
+thumb: Burgerpink.jpg
 carousel:
 - Burgerpink.jpg
 - b1.jpg
