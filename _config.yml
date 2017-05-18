@@ -4,8 +4,8 @@
 title: VICKY GUARESCHI
 description: "Portfolio of a 26 year old design, illustration and photopgraphy lover."
 analytics: #Google analytics code in the format XX-nnnnnnnn-n
-baseurl: "" #important: start with /
-url: "http://yourdomain.com"
+baseurl: "/solid-jekyll" #important: start with /
+url: "https://vickyguareschi.github.io"
 
 # Build settings
 markdown: kramdown
