@@ -5,8 +5,8 @@ date:   2017-05-10 16:54:46
 author: Vicky Guareschi
 categories:
 - shirt design
-img: CoffeeCode-01.jpg
-thumb: CoffeeCode-01.jpg
+img: Nerdearla.jpg
+thumb: Nerdearla.jpg
 carousel:
 - CoffeeCode-01.jpg
 - NerdearlaTetris-01.jpg
